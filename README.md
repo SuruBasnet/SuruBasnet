@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuruBasnet
-- 👀 I’m interested in ANYTHING
+- 👀 I’m interested in Web-development, Databases , Backend.
 - 🌱 I’m currently learning Python and Django
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me surubasnet824@gmail.com
